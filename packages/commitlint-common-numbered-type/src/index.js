@@ -1,6 +1,6 @@
 const RULES = {
   hashMissing: 'numbered-type-hash-missing',
-  
+
   issueNumberEmpty: 'numbered-type-issue-number-empty',
   issueNumberNumeric: 'numbered-type-issue-number-numeric',
 
